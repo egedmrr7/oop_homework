@@ -1,1 +1,1 @@
-# oop_homework
+# Object Oriented Programming (OOP) homework
