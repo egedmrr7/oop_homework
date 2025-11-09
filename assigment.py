@@ -148,8 +148,8 @@ student = Student("Ahmet", advisor)
 department = Department("Engineering")
 department.add_student(student)
 
-c1 = Course("Mathematics", "MATH101", 6)
-c2 = Course("Physics", "PHYS103", 5)
+c1 = Course("Mathematics", "MATH101",6)
+c2 = Course("Physics", "PHYS103",5)
 c3 = CourseFactory.create_course("online", "Chemistry", "CHEM102", 5, "Zoom")
 
 student.register_course(c1)
